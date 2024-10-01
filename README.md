@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mallowford
 - 👀 I’m interested in Games & Anime
 - 🌱 I’m currently learning C++ & Lua
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me N/A
 - 😄 Pronouns: he/him or any works
 - ⚡ Fun fact: I wear a jacket almost every single day
