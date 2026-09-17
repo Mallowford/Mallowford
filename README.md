@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mallowford
-- 👀 I’m interested in Games & Anime
-- 🌱 I’m currently learning C++ & Lua
-- 💞️ I’m not looking to collaborate on anything
-- 📫 How to reach me N/A
-- 😄 Pronouns: he/him or any works
-- ⚡ Fun fact: I wear a jacket almost every single day
+- 👀 I’m interested in Games, Manga, Editing, lots of small hobbies.
+- 🌱 I’m currently on a journey to master C++ & learn Lua
+- 💞️ I’m open to collaborate and learn new technologies.
+- 📫 How to reach me: mallowford+github@gmail.com (If there is no +github alias, the email might not be read)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am currently improving my League of Legends Fundamentals and I own 8 volumes of "Tune into the Midnight Heart" in Japanese.
 
 <!---
 Mallowford/Mallowford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
